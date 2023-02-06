@@ -9,7 +9,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange("Home")}
           className={currentPage === "Home" ? "nav-link active" : "nav-link"}
         >
-          <h1>Efrain's Portfolio</h1>
+          <h4>Efrain's Portfolio</h4>
         </a>
       </div>
 

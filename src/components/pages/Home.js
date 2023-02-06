@@ -8,7 +8,7 @@ import mvcblog from "./img/mvcblog.png";
 export default function Home() {
   return (
     <div class="light-text center fade">
-      <div class="vertical-fade"></div>
+      <div class="vertical-line"></div>
 
       <br></br>
       <h1>Hello!</h1>
