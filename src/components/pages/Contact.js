@@ -1,5 +1,5 @@
 import React from 'react';
-import spacesurfer from './space-surfer.png'
+
 
 export default function Contact() {
   return (
@@ -15,7 +15,7 @@ export default function Contact() {
         <h3>efraincastrojr@gmail.com</h3>
       </p>
       <br></br>
-      <img src={spacesurfer} alt="spaceman surfing" />
+     
       <div class="vertical-fade-reverse"></div>
     </div>
   );

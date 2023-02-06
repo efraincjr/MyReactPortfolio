@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-2022",
+  "name": "MyReactPortfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://efraincjr.github.io/MyReactPorfolio",
+  "homepage": "https://efraincjr.github.io/MyReactPortfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",

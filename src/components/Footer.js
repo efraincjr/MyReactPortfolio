@@ -12,7 +12,7 @@ export default function Footer() {
           <br></br>
           <div>
           <img class="logo"src={emailLogo} alt="email envelope logo"/> 
-            <a href="mailto:efraincastrojr@gmail.com" className='glow-on-hover'> efraincastrojr@gmail.com</a>
+            <a href="mailto:xdrcode@gmail.com" className='glow-on-hover'> efraincastrojr@gmail.com</a>
           </div>
           <div class="vertical-fade"></div>
         </div>
