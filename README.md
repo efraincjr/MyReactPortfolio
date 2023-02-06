@@ -2,7 +2,7 @@
 <br>
 
 ## Description:
-This is my gitHub portfolio page. Six applications are featured on the homepage with clickable links. Use the tabs to navigate the website.
+This is my gitHub portfolio page. 4 applications are featured on the homepage with clickable links. Use the tabs to navigate the website.
 <br><br>
 
 ## Links: <br>
